@@ -1,0 +1,43 @@
+// Параметры контейнера и блоков
+$containerPadding: 15;
+$maxWidth: 1440;
+$maxWidthContainerCount: 1200;
+$maxWidthContainer: $maxWidthContainerCount + ($containerPadding * 2);
+
+// Переменные основных цветов
+$blue: #0500ff;
+$backBlue: #0a589f;
+$backGrey: #f5f5f5;
+$green: #11bd18;
+
+// Переменные графики или геометрии
+$themeTime: 0.3s;
+$shadow: 0px 4px 8px rgba($blue, 0.1);
+$shadowGray: 0px 4px 8px rgba(134, 151, 168, 0.1);
+$workRadiusBorder: 8px;
+
+// Параметры основного семейства шрифта
+$base-font: "Arial", sans-serif;
+$base-font-weight: 500;
+$base-font-size: rem(16);
+$base-font-color: #000;
+
+// Карта базовых брейкпоинтов
+$breakpoints: (
+  "xxl": 1400px,
+  "xl": 1200px,
+  "lg": 992px,
+  "md": 768px,
+  "sm": 576px,
+  "xs": 320px
+);
+
+// Карта для определения максимальной ширины контейнера на брейкпоинте
+$container-widths: (
+  "xxl": $maxWidthContainer + px,
+  "xl": 1140px,
+  "lg": 960px,
+  "md": 720px,
+  "sm": 540px,
+  "xs": 100%
+);

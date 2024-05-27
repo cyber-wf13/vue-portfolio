@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Autohub",
+    "img": "autohub.png",
+    "descr": "Багатосторінковий сайт, який представляє інтернет-магазин автозапчастин. Елементи фільтрів було розроблено за допомогою Jquery UI",
+    "links": [
+      {
+        "icon": "fa-solid fa-up-right-from-square",
+        "href": "#"
+      },
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/autohub"
+      }
+    ]
+  },
+  {
+    "title": "BetVDS",
+    "img": "work-betvds.png",
+    "descr": "Виконана верстка спливаючого вікна при натисканні на кнопку Купить VDS. Використана сітка Bootstrap 5. Використані елементи Модальне вікно та Карусель із бібліотеки компонентів Bootstrap",
+    "links": [
+      {
+        "icon": "fa-solid fa-up-right-from-square",
+        "href": "#"
+      },
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/betvds"
+      }
+    ]
+  },
+  {
+    "title": "Nura Elite",
+    "img": "work-nura.png",
+    "descr": "Слайдер у секції Коттеджи реалізовано за допомогою бібліотеки Swiper.js. Адаптив був виконаний без макету для мобільних пристроїв",
+    "links": [
+      {
+        "icon": "fa-solid fa-up-right-from-square",
+        "href": "#"
+      },
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/nura-elite"
+      }
+    ]
+  },
+  {
+    "title": "Swap React",
+    "img": "swap-react.jpg",
+    "descr": "За основу взятий виконаний мною проект на Frelancehunt. В якості роутера використаний react-router-dom",
+    "links": [
+      {
+        "icon": "fa-solid fa-up-right-from-square",
+        "href": "#"
+      },
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/swap-react"
+      }
+    ]
+  },
+  {
+    "title": "Vita Juice",
+    "img": "work-juice.png",
+    "descr": "Структура сайту створена лише на JavaScript. Для створення DOM-елементів створено класи Skelet та SkeletSect. Контент прописаний у файлі InfoOfServer і легко може бути змінено",
+    "links": [
+      {
+        "icon": "fa-solid fa-up-right-from-square",
+        "href": "#"
+      },
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/vita-juice"
+      }
+    ]
+  },
+  {
+    "title": "Vue Kit",
+    "img": "work-vuekit.png",
+    "descr": "Бібліотека UI-компонентів, створена за допомогою Vue.js. В бібліотеці є кастомні чекбокси, радіокнопки, випадаючі списки, слайдери, календар та підказки. Підказки реалізовані за допомогою власної директиви v-tooltip, що може легко підключатися до будь-якого проекту",
+    "links": [
+      {
+        "icon": "fa-solid fa-up-right-from-square",
+        "href": "#"
+      },
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/vue-kit"
+      }
+    ]
+  }
+]

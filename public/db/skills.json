@@ -1,0 +1,72 @@
+[
+  {
+    "listName": "Програмування та веб",
+    "skillsList": [
+      {
+        "name": "Vue",
+        "color": "#41b883",
+        "image": "vue.svg"
+      },
+      {
+        "name": "JS",
+        "color": "#ffd600",
+        "image": "js.svg"
+      },
+      {
+        "name": "PHP",
+        "color": "#777bb3",
+        "image": "php.svg"
+      },
+      {
+        "name": "Python",
+        "color": "#4584B6",
+        "image": "python.svg"
+      },
+      {
+        "name": "Bootstrap",
+        "color": "#673ab7",
+        "image": "bootstrap.svg"
+      }
+    ]
+  },
+  {
+    "listName": "CyberSec",
+    "skillsList": [
+      {
+        "name": "Магістр",
+        "color": "#0500ff",
+        "image": "master.svg"
+      }
+    ]
+  },
+  {
+    "listName": "Адміністрування та мережі",
+    "skillsList": [
+      {
+        "name": "Linux",
+        "color": "#ffcc33",
+        "image": "linux.svg"
+      },
+      {
+        "name": "Raspberry Pi",
+        "color": "#c7053d",
+        "image": "raspberry-pi.svg"
+      },
+      {
+        "name": "L2/L3",
+        "color": "#204acb",
+        "image": "router.svg"
+      },
+      {
+        "name": "Cisco",
+        "color": "#00BCEB",
+        "image": "cisco.svg"
+      },
+      {
+        "name": "MikroTik",
+        "color": "#676867",
+        "image": "mikrotik.svg"
+      }
+    ]
+  }
+]

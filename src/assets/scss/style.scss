@@ -1,0 +1,12 @@
+// Объявление стилей для всего проекта
+@import "base/animations";
+@import "base/global";
+@import "base/reset";
+@import "base/fonts";
+
+// Стили для дневной/ночной темы
+@import "theme/dark";
+@import "theme/light";
+
+// Стили для компонентов БЭМ
+@import "components/workLink";

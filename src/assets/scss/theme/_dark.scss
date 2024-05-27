@@ -1,0 +1,59 @@
+body.dark-theme {
+  background-color: #858585;
+
+  .bio {
+    background-color: #3a3a3a;
+    border-bottom: 1px solid #eee;
+  }
+
+  .group-buttons__btn {
+    background-color: #fff;
+  }
+
+  .title {
+    color: #ffffff;
+  }
+
+  .subtitle {
+    color: #cdcdcd;
+  }
+
+  .skills-list__item {
+    background-color: #fff;
+    border: 1px solid #eee;
+  }
+
+  .preview-front__title {
+    color: #fff;
+  }
+
+  .work__container {
+    color: #cdcdcd;
+  }
+
+  .work__title::before {
+    background-color: #cdcdcd;
+  }
+
+  .popup {
+    background-color: #3a3a3a;
+    border: 1px solid #eee;
+  }
+
+  .popup__btn {
+    color: #eee;
+    @media (any-hover: hover) {
+      &:hover {
+        color: #858585;
+      }
+    }
+  }
+
+  .error__icon {
+    color: rgba(#fff, 0.8);
+  }
+
+  .error__text {
+    color: #fff;
+  }
+}
