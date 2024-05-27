@@ -2,11 +2,11 @@
   {
     "title": "Autohub",
     "img": "autohub.png",
-    "descr": "Багатосторінковий сайт, який представляє інтернет-магазин автозапчастин. Елементи фільтрів було розроблено за допомогою Jquery UI",
+    "descr": "\"Auto Hub\" - багатосторінковий сайт, кожна сторінка якого повністю адаптивна. На сторінці \"Запчастини\" можна спробувати роботу компонентів Jquery UI.",
     "links": [
       {
         "icon": "fa-solid fa-up-right-from-square",
-        "href": "#"
+        "href": "https://cyber-wf13.github.io/autohub/"
       },
       {
         "icon": "fa-brands fa-github",
@@ -17,11 +17,11 @@
   {
     "title": "BetVDS",
     "img": "work-betvds.png",
-    "descr": "Виконана верстка спливаючого вікна при натисканні на кнопку Купить VDS. Використана сітка Bootstrap 5. Використані елементи Модальне вікно та Карусель із бібліотеки компонентів Bootstrap",
+    "descr": "Звичайний лендинг, верстка якого виконана за допомогою адаптивної сітки CSS-фреймворку Bootstrap 5.",
     "links": [
       {
         "icon": "fa-solid fa-up-right-from-square",
-        "href": "#"
+        "href": "https://cyber-wf13.github.io/betvds/"
       },
       {
         "icon": "fa-brands fa-github",
@@ -32,11 +32,11 @@
   {
     "title": "Nura Elite",
     "img": "work-nura.png",
-    "descr": "Слайдер у секції Коттеджи реалізовано за допомогою бібліотеки Swiper.js. Адаптив був виконаний без макету для мобільних пристроїв",
+    "descr": "Адаптивний лендинг компанії, яка займається будівництвом. Адаптив був виконаний без макету для мобільних пристроїв",
     "links": [
       {
         "icon": "fa-solid fa-up-right-from-square",
-        "href": "#"
+        "href": "https://cyber-wf13.github.io/nura-elite/"
       },
       {
         "icon": "fa-brands fa-github",
@@ -45,28 +45,28 @@
     ]
   },
   {
-    "title": "Swap React",
+    "title": "Calculator-Swap",
     "img": "swap-react.jpg",
-    "descr": "За основу взятий виконаний мною проект на Frelancehunt. В якості роутера використаний react-router-dom",
+    "descr": "Конвертер криптовалют, який допоможе користувачеві підрахувати свої заощадження. Одне із замовлень, що виконане на біржі Freelancehunt",
     "links": [
       {
         "icon": "fa-solid fa-up-right-from-square",
-        "href": "#"
+        "href": "https://cyber-wf13.github.io/calculator-swap/"
       },
       {
         "icon": "fa-brands fa-github",
-        "href": "https://github.com/cyber-wf13/swap-react"
+        "href": "hhttps://github.com/cyber-wf13/calculator-swap"
       }
     ]
   },
   {
     "title": "Vita Juice",
     "img": "work-juice.png",
-    "descr": "Структура сайту створена лише на JavaScript. Для створення DOM-елементів створено класи Skelet та SkeletSect. Контент прописаний у файлі InfoOfServer і легко може бути змінено",
+    "descr": "Верстка інтернет-магазину на \"чистому\" JS з використанням принципів ООП (наскільки дозволяє JS). Для створення DOM-елементів створено класи Skelet та SkeletSect",
     "links": [
       {
         "icon": "fa-solid fa-up-right-from-square",
-        "href": "#"
+        "href": "https://cyber-wf13.github.io/vita-juice/"
       },
       {
         "icon": "fa-brands fa-github",
@@ -77,15 +77,26 @@
   {
     "title": "Vue Kit",
     "img": "work-vuekit.png",
-    "descr": "Бібліотека UI-компонентів, створена за допомогою Vue.js. В бібліотеці є кастомні чекбокси, радіокнопки, випадаючі списки, слайдери, календар та підказки. Підказки реалізовані за допомогою власної директиви v-tooltip, що може легко підключатися до будь-якого проекту",
+    "descr": "Бібліотека власних компонентів, що реалізована на Vue.js. Проект періодично доповнюється універсальними компонентами",
     "links": [
       {
         "icon": "fa-solid fa-up-right-from-square",
-        "href": "#"
+        "href": "https://cyber-wf13.github.io/vue-kit/"
       },
       {
         "icon": "fa-brands fa-github",
         "href": "https://github.com/cyber-wf13/vue-kit"
+      }
+    ]
+  },
+  {
+    "title": "Vue Portfolio",
+    "img": "portfolio.png",
+    "descr": "Сайт-візитка з власними роботами та інформацією з навичками в IT. Згодом, буде дороблена бекенд частина та інтегрована власна адмін-панель",
+    "links": [
+      {
+        "icon": "fa-brands fa-github",
+        "href": "https://github.com/cyber-wf13/vue-portfolio"
       }
     ]
   }
