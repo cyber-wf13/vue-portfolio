@@ -62,7 +62,6 @@ export default {
   box-shadow: 0 0 15px rgba($blue, 0.2);
   transition: background-color $themeTime ease-in;
   margin: 10px;
-  height: 50%;
 
   &__wrapper {
     display: flex;
